@@ -11,8 +11,9 @@ adicionar)
 #	echo $login	
 	verificalogs=$( cat logs.txt ) # armazena na variavel todos os logins salvo no txt
 	if [ -z $verificalogs ]; then # verifica se esta vazio a variavel
-		echo 'Arquivo vazio!'
-		echo 'Antes de Adicionar -Favor carregar arquivo logs.txt na opcao Listar'
+		#echo 'Arquivo vazio!'
+		#echo 'Antes de Adicionar -Favor carregar arquivo logs.txt na opcao Listar'
+		dialog --title "Usuario" --msgbox "Favor carregar logs.txt na opcao Listar" 20 30
 	else
 		if [ -z $login ]; then #caso contrario , verifica se o login é vazio..
 			echo 'sem usuario'
@@ -23,10 +24,11 @@ adicionar)
 				echo 'Aguarde..'
 				sudo adduser $login
 				
-				echo 'Usuario Criado'
+				dialog --title "Usuario" --msgbox "Concluido" 0 0 
 
 			else
-				echo 'usuario ja existe' #senao o usuarioja existe
+				dialog --title "Usuario" --msgbox "Usuario ja existe" 0 0
+				#echo 'usuario ja existe' #senao o usuarioja existe
 			fi
 
 		fi
