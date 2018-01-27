@@ -55,7 +55,28 @@ lista)
 	;;
 
 remove)
-	echo 'A implementar!'
-		
+	
+	nomeusuario=$( dialog --stdout --title 'Remover usuario' --inputbox 'Digite o nome do usuario' 0 0 )
+	verificalogsrm=$( cat logs.txt)
+	if [ -z $verificalogsrm ]; then
+		dialog --title 'Error' --msgbox 'Favor carregar o logs.txt na opcao listar antes de remover' 0 0 
+	else
+		if [ -z $nomeusuario ]; then
+				dialog --title 'Error' --msgbox 'Favor preencher o nome do usuario corretamente' 0 0 
+		else
+				verificausuariox=$( grep -i $nomeusuario logs.txt )
+				
+				if [ -z $verificausuariox ]; then
+						dialog --title 'Error' --msgbox 'USUARIO NAO ENCONTRADO' 0 0 
+				else
+						
+						sudo userdel $nomeusuario
+						sudo rm -rf $nomeusuario
+						rm logs.txt
+						dialog --title 'OK' --msgbox 'Usuario removido com sucesso, aquivo logs.txt deletado opcao listar o atualiza. ' 0 0
+						
+				fi
+		fi
+	fi		
     	;;
 esac
