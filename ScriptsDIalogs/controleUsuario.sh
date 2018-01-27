@@ -22,6 +22,7 @@ adicionar)
 			#echo $verificausuario
 			if [ -z $verificausuario ]; then # caso seja nula entao ele cria um novo usuario
 				echo 'Aguarde..'
+				sleep 5
 				sudo adduser $login
 				
 				dialog --title "Usuario" --msgbox "Concluido" 0 0 
