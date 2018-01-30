@@ -1,0 +1,1228 @@
+   #alternate Editar Wikipédia (pt)
+Tibia
+   Origem: Wikipédia, a enciclopédia livre.
+   Ir para: navegação, pesquisa
+   Disambig grey.svg  Nota: Se procura pelo osso, veja Tíbia. Para outros
+   significados, veja Tíbia (desambiguação).
+   Tibia
+   Desenvolvedora(s) CipSoft
+   Diretor(es) Guido Lübke, Stephan Payer, Ulrich Schlott e Stephan
+   Vogler^[1]
+   Plataforma(s) Adobe Flash, Windows e GNU/Linux^[2]
+   Data(s) de lançamento Janeiro de 1997^[3]
+   Gênero(s) Multijogador^[4]
+   Hardware
+   Versão 11.02^[5]
+   Tibia é um jogo eletrônico multijogador (MMORPG) gratuito, desenvolvido
+   pela CipSoft. Criado em 1997, é um dos jogos mais antigos do gênero.
+   Nele, os jogadores podem desenvolver as habilidades de seus avatares,
+   buscar tesouros, resolver enigmas e explorar áreas como cidades,
+   masmorras, florestas, desertos, ilhas, praias, minas, etc..^[7] Os
+   personagens podem disputar lutas entre si ou com criaturas,^[8] tais
+   como monstros, dragões, demônios, orcs, utilizando armas e magias,
+   enquanto os NPCs não podem ser atacados.^[9]
+   Ao iniciar o jogo, o seu avatar começa na ilha de Dawnport,^[10]^[11]
+   uma ilha onde todo jogador deve permanecer até desenvolver habilidades
+   necessárias para o progresso e sobrevivência nos outros mapas do jogo.
+   Quando o jogador atinge o nível 8, ele pode, opcionalmente, escolher a
+   sua vocação e deixar a ilha. Em Dawnport, o jogador familiariza-se com
+   o jogo e aprende muitas coisas sobre o mundo de Tibia, como magia ou
+   usar flechas e espadas.^[12]
+   O jogo foi desenvolvido utilizando a linguagem de programação C++^[13]
+   em ambas versões de Windows e GNU/Linux.
+Índice
+     * 1 História
+          + 1.1 O nascimento do jogo
+          + 1.2 Os primórdios
+               o 1.2.1 Versão 1.x
+               o 1.2.2 Versão 2.x
+               o 1.2.3 Versão 3.x
+          + 1.3 O crescimento do jogo
+               o 1.3.1 Versão 4.x
+               o 1.3.2 Versão 5.x
+               o 1.3.3 Versão 6.0
+          + 1.4 Após a fase beta
+               o 1.4.1 Versão 6.1
+               o 1.4.2 Versão 6.2
+               o 1.4.3 Versão 6.3
+          + 1.5 Profissionalização e comercialização do jogo
+               o 1.5.1 Versão 6.4
+               o 1.5.2 Versão 6.5
+               o 1.5.3 Versão 6.6
+          + 1.6 Novo cliente (sétima versão)
+               o 1.6.1 Versão 7.0
+               o 1.6.2 Versão 7.1
+               o 1.6.3 Versão 7.2
+               o 1.6.4 Versão 7.3
+               o 1.6.5 Versão 7.4
+          + 1.7 Fatos recentes
+               o 1.7.1 Versão 7.5
+               o 1.7.2 Versão 7.6
+               o 1.7.3 Versão 7.7
+               o 1.7.4 Versão 7.8
+               o 1.7.5 Versão 7.9
+     * 2 Vocações
+          + 2.1 Feiticeiro
+          + 2.2 Druida
+          + 2.3 Paladino
+          + 2.4 Cavaleiro
+     * 3 Características gerais
+     * 4 Principais locais
+          + 4.1 Cidades
+               o 4.1.1 Ankrahmun
+               o 4.1.2 Ab'Dendriel
+               o 4.1.3 Carlin
+               o 4.1.4 Darashia
+               o 4.1.5 Edron
+               o 4.1.6 Kazordoon
+               o 4.1.7 Liberty Bay
+               o 4.1.8 Port Hope
+               o 4.1.9 Rookgaard
+               o 4.1.10 Thais
+               o 4.1.11 Venore
+               o 4.1.12 Svargrond
+               o 4.1.13 Yalahar
+               o 4.1.14 Farmine
+               o 4.1.15 Gnomebase
+               o 4.1.16 Gray Beach
+     * 5 Ver também
+     * 6 Referências
+     * 7 Bibliografia
+     * 8 Ligações externas
+História[editar | editar código-fonte]
+   A história começou no outono europeu de 1995 quando três estudantes (os
+   alemães Stephan Börzsönyi, Ulrich Schlott e Stephan Vogler), devido ao
+   grande potencial da Internet que eles enxergaram. Os três tiveram a
+   ideia de criar um RPG online. Contudo, eles desejavam que o jogo deles
+   possuísse uma interface gráfica, diferentemente dos vários Multi-user
+   dungeons baseados em texto da época.^[14] Guido Lübke começou como um
+   jogador normal, e em 1999 se juntaria aos três como o quarto oficial
+   executivo do jogo.^[15]
+O nascimento do jogo[editar | editar código-fonte]
+   A partir de 1996 começaram a surgir os primeiros planos concretos para
+   o jogo. Foi escrita a programação básica para a rotina de manuseio de
+   objetos, foi utilizado o editor MudEdit para o desenho dos níveis,
+   itens, e avatares (personagens dos jogadores); e foi testado o
+   protocolo TCP/IP para a comunicação entre os o servidor e o jogo. Em
+   agosto do mesmo ano se havia um servidor rodando em Linux e um cliente
+   do jogo rodando em Windows, e já era possível movimentar um personagem
+   ao longo dos níveis.^[14] Grande parte dos gráficos usados nos cenários
+   do jogo era similar ao do jogo Ultima VI.
+   O desenvolvimento do jogo no início se deu basicamente nas horas livres
+   dos quatro criadores. A longo do outono europeu de 1996, Tibia foi
+   ganhando novas funcionalidades: como nomes individuais aos personagens,
+   a habilidade deles pegarem, moverem ou largarem itens, e a habilidade
+   de conversarem uns com os outros.^[14]
+   No natal de 1996, foi implementada no jogo a habilidade de se usar
+   itens, e a funcionalidade de gerenciamento de contas dos usuários.
+   Também foi criada a primeira versão do site do Tibia.^[16] Para os
+   criadores de Tibia, estava assim tudo pronto para o lançamento do jogo,
+   o qual ocorreu em 7 de janeiro de 1997. O servidor do Tibia se
+   localizava, nessa época, na Universidade de Ratisbona, e o nome da
+   primeira versão foi Alpha 1.0.^[14]
+Os primórdios[editar | editar código-fonte]
+Versão 1.x[editar | editar código-fonte]
+   Inicialmente apenas poucos usuários vieram ao jogo porque os únicos
+   anúncios para ele eram algumas entradas em motores de busca. O primeiro
+   jogador, chamado Albe, veio em 10 de julho de 1997, o qual foi recebido
+   com entusiasmo pelos criadores no jogo.^[14]
+   Ao longo dos próximos meses o desenvolvimento de Tibia continuou, o
+   jogo recebeu o seu primeiro NPC (Sam, presente no jogo até hoje na
+   cidade de Thais), os seus primeiros monstros (trolls, spiders e
+   cyclops; também ainda presentes no jogo) e papeis dentro do jogo nos
+   quais podia se escrever mensagens permanentes. Além disso foi
+   introduzida graficamente a terceira dimensão no jogo. Devido a todas
+   essas novas funcionalidades, a versão do jogo foi atualizada para Alpha
+   2.0 em 3 de junho de 1997.^[14]
+Versão 2.x[editar | editar código-fonte]
+   Nas férias de verão de 1997 dos criadores, Tibia fez mais avanços:
+   eventos dependentes do tempo, a habilidade de se agrupar alguns dos
+   itens iguais entre si, um sistema de pesca, um mapa automático na tela,
+   habilidade de se movimentar em todas as três dimensões, a introdução de
+   períodos de dia e de noite (um dia completo durava uma hora, o que
+   permanece até hoje).^[14]
+   Nessa época, o mapa do jogo, que era de 160 por 160 quadrados, foi
+   substituído por um de 512 por 512. Esse novo mapa continha as primeiras
+   construções da cidade de Thais: o templo, a taverna de Frodo (outro
+   NPC), a loja de equipamentos do NPC Gom, e a loja de armamentos do NPC
+   Sam. Também foram adicionadas várias cavernas com tipos novos de
+   monstros. Tais mudanças fizeram com que a versão do jogo fosse
+   atualizada para Alpha 3.0 em 28 de outubro de 1997.^[14]
+Versão 3.x[editar | editar código-fonte]
+   Nesse ponto, o número de jogadores ao redor do mundo se juntando ao
+   jogo crescia, sendo a maior parte deles da Alemanha. Com isso, também
+   começaram a surgir os primeiros fã sites de Tibia; o primeiro deles foi
+   conhecido como Yorin's Tibia Homepage (lançado em 2 de julho de
+   Enquanto isso, os criadores desenvolveram mais funcionalidades para
+   Tibia: um sistema de magias, foram introduzidas as vocações dos
+   personagens e as suas respectivas habilidades de lutas (pontos de
+   skill), foi implementado o sistema de correios no jogo (o assim chamado
+   Royal Tibian Mail, com o qual os jogadores agora poderiam enviar cartas
+   e itens entre si), e o sistema de depot (depósito em Português), no
+   qual os jogadores poderiam então guardar os seus itens extras em um
+   local seguro.^[14]
+   Nessa altura, Tibia, ao ver de seus criadores, havia já amadurecido
+   bastante. Então decidiram mudar a fase de desenvolvimento do jogo de
+   alpha para beta, surgiu assim a versão 4.0 Beta.^[14]
+O crescimento do jogo[editar | editar código-fonte]
+Versão 4.x[editar | editar código-fonte]
+   As atualizações foram recebidas com satisfação pelos jogadores. As
+   pessoas passaram a ficar mais tempo online no jogo, e assim sempre
+   havia alguém dentro do jogo todo o tempo. O servidor se tornou
+   insuficiente para toda essa atividade, então os criadores compraram um
+   servidor na Universidade de Passau (Alemanha), o qual começou a rodar o
+   jogo em 2 de julho de 1998.^[14]
+   Com o rápido crescimento do jogo, o seu código fonte foi tornando-se
+   ineficiente e instável, e era bem difícil adicionar novas
+   funcionalidades sem acabar adicionando junto novos defeitos. Então os
+   criadores decidiram reescrever completamente o código do servidor, o
+   que levou quase um ano. Em 18 de junho de 1999, com o novo servidor,
+   foi lançada a versão 5.0 Beta do jogo.^[14]
+Versão 5.x[editar | editar código-fonte]
+   Diversas melhorias foram adicionadas ao jogo com o auxílio dos
+   jogadores, entre elas: um mapa ainda maior (1024 por 1024 quadrados), o
+   desenho de novas áreas, o desenho de novos itens, escrita de histórias
+   sobre o mundo de Tibia. Também foi conferido a alguns jogadores de
+   confiança cargo de gamemasters, para ajudarem a manter a ordem dentro
+   do jogo.^[14]
+   O número médio de jogadores era cerca de 50 no verão europeu de 1999, e
+   cresceu para cerca de 150 na mesma época do ano de 2000; o que fez de
+   Tibia, na época, o maior RPG online na Alemanha.^[14]
+   Ao longo do ano de 2000 foram feitas diversas mudanças nas regras do
+   jogo.^[14] Também foi introduzida Rookgaard, uma ilha onde os novatos
+   poderiam aprender o básico do jogo antes de irem ao continente
+   principal do jogo. Frente a todas essas mudanças e da necessidade de
+   Tibia possuir um visual próprio, em vez dos gráficos que lembravam
+   outros jogos do gênero, o jogo foi atualizado para a versão 6.0 Beta em
+   3 de novembro de 2000.^[17]
+Versão 6.0[editar | editar código-fonte]
+   Houve poucas inovações técnicas, porém a atualização trouxe mudanças
+   drásticas no visual do jogo. Com a ajuda de diversos artistas
+   voluntários, da própria comunidade de jogadores, foram desenhados novos
+   gráficos para substituir todos os gráficos antigos que lembravam os de
+   outros RPG's, fazendo com que Tibia tivesse o seu próprio estilo.^[17]
+   A página oficial de Tibia foi reestruturada, ganhando assim um novo
+   visual e novas funcionalidades: as notícias das últimas informações a
+   respeito do jogo, e o lançamento dos fóruns oficiais do jogo (onde
+   qualquer um que possuísse um personagem em Tibia poderia postar^[17]).
+   Houve algumas mudanças no cliente do jogo: um mecanismo que impede que
+   vários clientes sejam abertos no mesmo computador, a possibilidade de
+   se usar na lista de jogadores ignorados os wildcards * (que significa
+   uma seqüência qualquer de vários caracteres) e ? (que significa um
+   único caractere qualquer), a senha (por razões de segurança) não podia
+   mais ser salva nas preferências, e uma nova técnica de comunicação com
+   o servidor para reduzir os screen-bugs (defeitos de tela).^[17]
+   Além disso, devido ao fato de que nessa época os quatro criadores
+   estavam quase concluindo os seus estudos na Universidade de Passau,
+   eles tiveram de procurar um novo lugar para o servidor do jogo. Eles
+   fizeram uma parceria com a Gameloft, que em retorno da hospedagem teve
+   o seu banner de anúncios posto no site oficial de Tibia.^[17]
+   Logo após alguns dias depois do lançamento dessas atualizações, foi
+   lançada em 7 de novembro de 2000 a versão para Linux do cliente para o
+   Tibia 6.0 Beta.^[18]
+   O número de jogadores foi crescendo, e mais uma vez foi quebrado o
+   recorde de jogadores online. No dia 19 de novembro de 2000 foi atingida
+   a marca de 300 jogadores dentro do jogo.^[19]
+   Nesse ponto, devido às últimas atualizações, Tibia já havia consolidado
+   muitas das características de um jogo online de RPG e havia ganhado um
+   estilo próprio, o que fez com que o jogo terminasse a sua fase beta de
+   desenvolvimento.
+Após a fase beta[editar | editar código-fonte]
+   A partir daí, as mudanças foram bem mais graduais, não havendo tantas
+   mudanças bruscas no jogo quanto nos estágios anteriores do
+   desenvolvimento, e a maior parte das atualizações se centrava mais em
+   mudanças no servidor do que no cliente.
+Versão 6.1[editar | editar código-fonte]
+   Em 23 de dezembro de 2000 foi lançada a atualização de Natal, como um
+   presente para a comunidade tibiana.^[20] A partir desse ponto, se
+   tornou uma constante no jogo o lançamento de atualizações nessa época.
+   A principal mudança que veio foi um aumento do mapa do jogo juntamente
+   com o lançamento de novas áreas.
+   Foi ampliada a ilha dos iniciantes (Rookgaard). Os novos lugares
+   introduzidos foram: a montanha dos Dwarfs (Big Old one), os pântanos
+   (Green Claw Swamp), o deserto (Jakundaf Desert), as colinas ao norte da
+   montanha dos Dwarfs e a fortaleza dos orcs (Orc's Fortress). Nessas
+   áreas também foram postos novos monstros.^[20]
+   Houve algumas pequenas mudanças técnicas: agora cem moedas de ouro
+   poderiam ser trocadas por uma de platina, as escadas não mais
+   desapareciam se fossem jogados itens sobre elas, as criaturas venenosas
+   (cobras, aranhas venenosas, vespas e escorpiões) passaram a de fato
+   poderem envenenar (sendo o efeito do veneno mais forte no início e
+   decaindo com o tempo), e não era mais possível empurrar outros
+   jogadores para buracos e campos mágicos (fogo, eletricidade ou
+   veneno).^[20]
+   O curso universitário dos quatro criadores estava chegando cada vez
+   mais perto de seu final, até então eles administravam Tibia em suas
+   horas livres, porém com o término do curso julgavam que era a hora de
+   encontrar um emprego, e eles estavam preocupados pois temiam que talvez
+   não houvesse mais tanto tempo para se dedicar ao jogo. Eles estavam
+   pensando na possibilidade de trabalharem em tempo integral com o Tibia
+   e em começarem a rodar o jogo comercialmente.^[21] Depois de uma
+   conversa com os jogadores nos fóruns do jogo, decidiram continuar
+   levando Tibia adiante dessa forma.^[22]
+   Tibia continuava crescendo, e seis meses após o lançamento da versão
+   6.1 o número de jogadores tinha dobrado. Contudo, a Gameloft cancelou o
+   seu serviço de hospedagem, e os criadores tiveram de procurar novamente
+   um novo servidor para o jogo. Então eles próprios compraram um servidor
+   para o jogo, o qual começou a operar em 22 de maio de 2001. Com a saída
+   do patrocínio da Gameloft, o novo patrocinador do site passou a ser a
+   4Players.^[23]
+Versão 6.2[editar | editar código-fonte]
+   Em 10 de junho de 2001 o jogo foi atualizado mais uma vez. Foram
+   lançadas várias novas áreas: as Ice Islands (ilhas de gelo), as cidades
+   de Ab'Dendriel, Kazordoon e Carlin, assim como algumas mudanças nas
+   áreas antigas. Também, a partir desse ponto, tornou-se possível
+   escolher entre essas três cidades ou Thais como a cidade natal do
+   personagem.^[24] No mês seguinte, o jogo já havia atingido a marca de
+   600 jogadores online, o novo recorde.^[25]
+   No dia 21 de julho do mesmo ano, foi introduzido o sistema de contas,
+   onde cada jogador agora teria uma conta na qual estariam todos os seus
+   personagens.^[26]
+   Nessa época, estava se discutindo com os jogadores a possibilidade de
+   que, quem desejasse, contribuísse em dinheiro para os gastos com o
+   desenvolvimento do jogo, tendo em troca algumas funcionalidades
+   extras.^[27] De acordo com uma pesquisa feita, 40% dos jogadores se
+   demonstraram interessados em pagar uma pequena taxa pelo jogo.^[28]
+Versão 6.3[editar | editar código-fonte]
+   Em 24 de setembro de 2001 essa atualização foi lançada com o objetivo
+   de dar aos gamemasters mais possibilidades de ajudar os jogadores.^[29]
+   Foi criado o criminal record, um registro de violações que teriam os
+   jogadores que foram banidos por transgredirem as regras do jogo. Com
+   essa atualização, foi inserida uma interface na página das contas dos
+   jogadores onde eles poderiam escrever uma reclamação formal se
+   recebessem uma punição dos gamemasters. Foi criada a posição de
+   counsellor (conselheiro), os quais seriam apontados pelos gamemasters e
+   agiriam como seus assistentes (fazendo investigações e reportando
+   violações das regras), os counsellors também receberam a função de
+   responder a questões sobre o jogo e de ajudar os jogadores
+   novatos.^[29]
+   Em 16 de outubro foi oficialmente proibido no jogo o uso de macros
+   (programas para realizar automaticamente a certas tarefas).^[30]
+Profissionalização e comercialização do jogo[editar | editar código-fonte]
+   Em 2 de novembro de 2001 foi anunciada a fundação da empresa CipSoft
+   pelos quatro criadores do jogo, dando um caráter oficial à produção do
+   jogo. Também foi anunciado de que as Premium Accounts, a versão paga do
+   jogo, seria lançada em alguns dias.^[31]
+Versão 6.4[editar | editar código-fonte]
+   Nessa mesma data foi lançada a versão 6.4. Ela basicamente introduziu
+   as mudanças necessárias para a implementação das Premium Accounts. Foi
+   lançada a ilha da cidade de Edron, a qual é de acesso exclusivo a quem
+   possui a Premium Account; bem como os barcos necessários para se chegar
+   até ela. Foram introduzidas nas cidades casas que poderiam ser alugadas
+   pelos jogadores com Premium Account. Além disso, também foram inseridos
+   novos monstros e magias (algumas dessas coisas para todos e outras para
+   os jogadores pagos).^[31]
+   Em 5 de novembro de 2001 foram lançadas as Premium Accounts, agora os
+   jogadores tinham a possibilidade de comprá-la e usufruir as vantagens
+   introduzidas na atualização.^[32] O primeiro jogador a adquirir uma foi
+   Flattery, o qual no dia seguinte recebeu uma homenagem e um presente no
+   castelo da ilha de Edron.^[33]
+   A fim de se melhorar a performance do jogo, em 20 de novembro foi
+   instalado um segundo servidor, um seria apenas para o jogo, e o outro
+   apenas para o site do Tibia. Isso fez com que diminuíssem os lags no
+   jogo e que fosse possível aumentar o limite de jogadores. Na época, o
+   limite de jogadores era de 600, a partir de agora, quando esse limite
+   fosse atingido apenas os jogadores com Premium Accounts poderiam entrar
+   no jogo.^[34]
+Versão 6.5[editar | editar código-fonte]
+   Lançada em 19 de dezembro de 2001, o objetivo principal dessa
+   atualização foi aumentar o limite máximo de jogadores online. Para
+   isso, foi lançado um novo mundo de jogo (nomeado de Nova), que se
+   juntou ao já existente (Antica). Ambos os mundos têm exatamente a mesma
+   aparência, as mesmas regras e o mesmo limite de jogadores, a diferença
+   é os personagens que foram criados em cada um (cada personagem pertence
+   a apenas um mundo e não pode mudar de mundo).^[35]
+   Também foram feitas algumas mudanças no mapa do jogo: novos lugares
+   foram adicionados em Fields of Glory e em Ice Islands, e foi lançada
+   uma nova ilha (hoje conhecida como Cormaya) próxima a Edron.^[35]
+Versão 6.6[editar | editar código-fonte]
+   Essa atualização, lançada em 18 de fevereiro de 2002, trouxe
+   oficialmente ao jogo o sistema de guildas (ou clãs). Os jogadores com
+   Premium Account poderiam fundar guildas e/ou serem líderes ou
+   vice-líderes das mesmas, e qualquer jogador convidado pelos líderes ou
+   vices poderia se juntar ao clã.^[36]
+   Também foi introduzida nessa atualização uma promoção para cada uma das
+   vocações, a qual poderia ser obtida por jogadores com Premium Account
+   com nível 20 ou mais, após um pagamento de uma taxa em dinheiro do
+   jogo. A promoção apresentava as vantagens de o personagem poder
+   adquirir uma magia exclusiva à sua vocação promovida, uma velocidade
+   maior na regeneração de pontos de vida e de magia, e uma perda menor de
+   experiência, itens e habilidades quando morria. O algoritmo do
+   movimento e luta dos monstros foi alterado, melhorando assim a sua
+   inteligência artificial.^[36]
+   Em 3 de abril seguinte, foi lançado o terceiro mundo de jogo: Premia.
+   Ele possuía as mesmas características dos outros dois, exceto pelo fato
+   de apenas jogadores com Premium Accounts poderiam se juntar a
+   este.^[37]
+   No dia 14 de junho do mesmo ano foi lançada uma atualização nos mapas:
+   o continente desértico de Darama, com oásis, pirâmides e ruínas
+   assombradas, onde apenas os jogadores premium poderiam visitar; e na
+   área gratuita as áreas de Plains of Havoc e Kazordoon foram revisadas,
+   sendo adicionada a essa última uma ampliação nas minas dos dwarfs.^[38]
+Novo cliente (sétima versão)[editar | editar código-fonte]
+   Em 28 de agosto de 2002, após um longo período de desenvolvimento e
+   testes, foi lançado o novo cliente do Tibia. Ele apresentava agora o
+   suporte a DirectX, tornando possível a rolagem suave da tela de jogo,
+   efeitos de luz e sombra, e efeitos de animação mais complexos.^[39]
+Versão 7.0[editar | editar código-fonte]
+   As novas funções que vieram com o novo cliente e a atualização
+   incluíam:^[39]
+     * diferentes canais de bate-papo no jogo, anteriormente apenas havia
+       um
+     * um sistema de troca segura de itens,agora ambos os jogadores para
+       trocarem ou comercializarem itens abriam uma janela de troca, e
+       ambos deveriam aceitar a troca para que ela ocorresse;
+       anteriormente ambos os jogadores tinham de pôr os itens no chão e o
+       sucesso da troca poderia se comprometer se uma das partes
+       resolvesse pegar todos os itens para si
+     * uma lista VIP, onde cada um poderia se adicionar jogadores de seu
+       interesse, e saber se eles estavam online ou não
+     * um programa de instalação para o Tibia, anteriormente o jogo vinha
+       em um arquivo zipado ou em um instalador que tinha de ser rodado em
+     * uma funcionalidade de atualização automática do cliente, antes era
+       preciso baixar o programa do site a cada atualização
+   Contudo a nova versão trouxe um defeito (removido imediatamente após
+   ter chegado ao conhecimento da CipSoft) que permitia os jogadores
+   duplicarem itens. Isso forçou a deleção de várias contas, por abusarem
+   do defeito e a reinicialização de todos os mundos para o estado
+   anterior ao do problema.^[40]
+   Em 7 de outubro de 2002 foi lançado o quarto mundo de jogo: Amera. Este
+   mundo, ao contrário dos outros três, se encontrava nos Estados Unidos
+   em vez da Alemanha. Ele foi lançado com o objetivo de fazer com que os
+   jogadores da Austrália e das américas tivessem menos problemas na
+   conexão do jogo, uma vez que o servidor desse mundo se localizava mais
+   perto deles.^[41]
+   No dia 4 de novembro seguinte, surgiu um novo mundo com um novo sistema
+   de jogo: Secura, um mundo non-PvP. Isto significa que neste mundo não
+   era possível aos jogadores atacar outros jogadores ou monstros
+   invocados por jogadores, ao contrário dos outros quatro mundos (normal
+   PvP) onde, na época, não havia restrições para isso.^[42]
+   Devido ao grande sucesso do mundo de Amera, foi lançado em 14 de
+   novembro mais um mundo nos Estados Unidos: Libera, um mundo de normal
+   PvP.^[43] Os mundos na Alemanha também estavam ficando lotados, então
+   em 10 de dezembro de 2002 foi lançado lá mais um mundo com PvP normal:
+   Lunara.^[44]
+Versão 7.1[editar | editar código-fonte]
+   Em 17 de dezembro de 2002 foi lançado outra atualização de natal. Foi
+   lançada a cidade de Venore, e postas mais áreas de caça em Rookgaard, e
+   a partir de agora para sair de Rookgaard e ir ao continente principal
+   era preciso falar com um oráculo ao atingir o nível 8, em vez de usar
+   um transportador nesse nível. Também se tornaram disponíveis anéis e
+   amuletos mágicos, com diversos efeitos especiais.^[45]
+   Para ajudar os gamemasters a combaterem comportamentos destrutivos, a
+   partir de agora todas as mortes dos personagens dos jogadores passaram
+   a ser registradas por hora e razão. Também passou a ser possível os
+   jogadores abrirem canais de chat particulares para conversar com outros
+   jogadores. Foram lançados no jogo o Papai Noel e as árvores de natal,
+   que estariam presentes no jogo sempre na época natalina.^[45]
+   A popularidade do jogo continuou subindo, no natal de 2002 a média de
+   jogadores online era de 3.000 enquanto que em junho de 2003 ela já era
+   de 8.000 Devido ao crescimento do número de mundos e de jogadores, os
+   quatro fundadores da CipSoft precisaram contratar funcionários e se
+   mudarem para um novo escritório.^[46]
+   Nesse meio período, foram lançados quatro novos mundos: Eternia,
+   Trimera,^[47] Danubia e Calmera;^[48] sendo este último o segundo mundo
+   non-PvP.
+   Em agosto foi apresentada uma nova funcionalidade aos jogadores com
+   Premium Accounts, a "personalização da conta". Com ela, os jogadores
+   criariam um vínculo definitivo com suas contas entrando com os seus
+   dados pessoais na conta, assim eles sempre serão capazes de provarem
+   que são os legítimos donos da conta, caso a percam. Quem personalizasse
+   a conta também recebe uma recovery key, um código que permite que a
+   conta seja recuperada automaticamente.^[49]
+   No dia 3 de setembro de 2003 foi lançada na ilha de Rookgaard uma área
+   exclusiva para jogadores premium.^[50]
+   Na noite do dia 17 de setembro para o dia 18 de setembro, um dos
+   servidores de Tibia foi hackeado, fato único até hoje. O invasor teve
+   acesso à base de dados central, e importantes informações foram
+   manipuladas e copiadas. Então, a CipSoft teve de suspender
+   completamente todo o serviço do jogo por cinco dias, ela mudou
+   importantes partes de sua estrutura de informação para melhorar a
+   segurança, e reinicializou todos os mundos para o estado anterior ao do
+   ataque. Uma vez que o invasor teve acesso às senhas e recovery keys dos
+   jogadores, todas elas tiveram de ser mudadas e enviadas por e-mail a
+   eles.^[51]
+   Ao longo do segundo semestre do ano, foram sendo lançados novos mundos
+   normal PvP: Isara,^[52] Rubera,^[53] Julera, e Valoria.^[54]
+Versão 7.2[editar | editar código-fonte]
+   Essa atualização foi lançada em 16 de dezembro de 2003. Ela apresentou
+   diversas inovações:^[55]
+     * As Ghostlands, uma área assombrada perto da cidade de Carlin
+     * Novos visuais para os personagens, disponíveis apenas a quem tem a
+       Premium Account
+     * Os monstros se tornaram mais espertos, e passaram a usar novas
+       técnicas de combate
+     * Foi introduzido um sistema de reputação em todos os mundos onde era
+       permitido o combate de jogador contra jogador, onde-se marcava com
+       uma caveira quando um jogador atacava o outro.
+     * Surgiu o sistema de tutores, onde jogadores que gostam de ajudar os
+       outros com o jogo poderiam obter essa posição, desde que atingissem
+       a determinados requerimentos e passassem em uma prova especial
+     * Foi lançado um novo canal de chat no jogo, o help, no qual os
+       jogadores poderiam obter ajuda dos tutores ou outros jogadores
+       experientes
+     * Monstros e jogadores passaram a poder se movimentar diagonalmente
+     * Jogadores online inativos por mais de quinze minutos agora eram
+       desconectados automaticamente
+     * Foi lançado um sistema de quests, no qual a partir de agora cada
+       personagem de fato ganharia prêmios depois de uma quest,e poderiam
+       ganhar apenas uma vez por quest
+   Um pouco mais adiante, foi introduzido o sistema de banimento
+   automático para os jogadores que matavam excessivamente outros
+   personagens.^[56]
+   Ao longo dessa versão foram lançados mais onze mundos: Hiberna,^[57]
+   Solera, Titania,^[58] Azura, Chimera, Pacera, Harmonia (sendo estes
+   dois últimos mundos non PvP), Aurea, Samera,^[59] Aldora, Mythera^[60]
+Versão 7.3[editar | editar código-fonte]
+   Essa atualização, lançada em 11 de agosto de 2004, apresentou a nova
+   cidade de Ankrahmun, que ficava no deserto de Darama. Foi implantado um
+   sistema automático de controle de spam, e a habilidade de comprar ou
+   vender vários itens ao mesmo tempo nos NPC's.^[61]
+   Em 16 de setembro de 2004 foi lançado o primeiro mundo em um servidor
+   localizado no Brasil: Tenebra (normal PvP). No mesmo dia foi lançado o
+   mundo de Galana (normal PvP, Alemanha).^[62]
+   No dia 28 de outubro foi lançada a moeda de cristal, a qual valia 100
+   moedas de platina.^[63]
+   Ao longo dessa versão também foram lançados mais quatro mundos Fortera,
+   Lucera,^[64] Pythera, e Celesta; sendo este último um mundo
+   non-PvP.^[65]
+Versão 7.4[editar | editar código-fonte]
+   Nesta atualização, lançada em 14 de dezembro de 2004, foram
+   implementadas novas quests e cavernas no continente de Darama, foi
+   introduzido o acontecimento aleatório de invasões de monstros em uma
+   cidade, foi criada para os jogadores gratuitos uma fila de espera para
+   entrar no jogo para quanto este tivesse atingido o limite máximo de
+   jogadores (anteriormente tais jogadores tinham de tentar várias vezes,
+   quando o jogo estava lotado, antes de conseguir entrar nele), também
+   foi implementada barras de progresso nas habilidades (o que fez com que
+   agora fosse possível saber o quanto falta para se avançar em um
+   determinado skill).^[66]
+   No dia 1 de fevereiro de 2005 ocorreu um fato chocante para a
+   comunidade de Tibia: pela primeira, e até então única, vez um
+   gamemaster foi demitido. Ele havia vendido a sua conta de gamemaster a
+   outros jogadores, os quais prejudicaram a comunidade. A CipSoft não
+   teve outra escolha senão deletar a conta dele e a de todos os que
+   colaboraram com isso. A CipSoft também revisou as punições imposta por
+   esse gamemaster, e anunciou que lamenta o incidente e que ela e a
+   comunidade de gamemasters sempre cuidam sinceramente das necessidades
+   dos jogadores.^[67]
+   Ainda em fevereiro, ocorreu um uma punição em massa contra jogadores
+   que compartilhavam suas contas (uma violação séria das regras do
+   jogo^[68]). Vários jogadores, incluindo diversos com um nível alto,
+   tiveram as suas contas suspensas ou deletadas.^[69]
+   Em 6 de abril de 2005 Tenebra, o único mundo em um servidor no Brasil,
+   foi movido para os Estados Unidos. A razão foi de que o servidor não
+   era capaz de fornecer uma conexão aceitável que permita jogar sem
+   problemas, e a CipSoft não conseguiu encontrar no Brasil um outro
+   servidor que atendesse às suas exigências técnicas para rodar o
+   jogo.^[70]
+   Foi nesta versão que surgiu o mais famoso jogador entre a comunidade
+   brasileira: Lord'Paulistinha, conhecido por ser o único brasileiro que
+   já chegou ao Top 1 mundial.^[71]
+   Ao longo dessa versão, foram lançados mais 30 mundos de jogo: os de
+   normal PvP Arcania, Jamera,^[72] Pandoria, Shivera,^[73] Danera, Elera,
+   Iridia,^[74] Morgana, Selena, Silvera, Zanera,^[75] Empera, Nebula,
+   Saphira, Shanera,^[76] Berylia, Grimera,^[77] Balera, Furora, Neptera,
+   Thoria,^[78] Elysia, e Xantera;^[79] os de non-PvP Guardia,
+   Honera,^[77] Luminera, e Refugia;^[80] e mais dois do novo tipo
+   PvP-enforced (sem qualquer restrição quanto a matar outros personagens)
+   Dolera e Inferna.^[79]
+Fatos recentes[editar | editar código-fonte]
+Versão 7.5[editar | editar código-fonte]
+   Lançada em 9 de agosto de 2005, esta atualização trouxe uma nova área
+   para jogadores premium: a selva de Tiquanda juntamente com a nova
+   cidade de Port Hope nela. A selva apresentou vários novos gráficos e
+   novas raças de monstros (dworcs, lizards e apes). Para os jogadores
+   gratuitos, também foi implementada uma nova área: a Dark
+   Cathedral.^[81]
+   Também foram introduzidas mudanças a fim de dificultar a trapaça no
+   jogo:^[81]
+     * Para combater o uso de macros foram introduzidos os soul points
+       (pontos de alma); os jogadores agora gastavam eles toda a vez que
+       criavam uma runa mágica e esses pontos só podiam ser recuperados
+       dormindo ou caçando monstros. O objetivo dessa mudança foi o de se
+       combater àqueles que deixavam seus personagens parados por diversas
+       horas com um programa (ilegal, pelas regras do Tibia^[82]) que
+       criava runas automaticamente enquanto que o jogador ficava longe do
+       computador.^[83]
+     * Agora passaram a ser necessárias iscas para se pescar, não apenas
+       uma vara.
+     * Se um monstro fosse guiado até longe de seu lugar original, ele
+       simplesmente desapareceria a partir de então; isso foi para evitar
+       que certos jogadores fortes levassem e deixassem monstros poderosos
+       em áreas onde costumam ficar os jogadores mais fracos.
+     * Os móveis para as casas passaram a virem desmontados dentro de
+       pacotes, os quais poderiam ser carregados no inventário dos
+       jogadores e montados dentro de suas respectivas casas.
+       Anteriormente os móveis vinham inteiros, e tinham de ser arrastados
+       até as casas (dando assim um risco de que outro jogador os
+       roubassem ou os quebrassem).
+   Em 12 de agosto foi introduzida a posição de Senior Tutor, dada a
+   tutores de longa data. Estes possuíam a habilidade de reportar à
+   CipSoft mensagens e tópicos nos fóruns que violassem as regras.^[84]
+   Ao longo dessa versão foram lançados mais 4 mundos de normal PvP:
+   Askara, Malvera, Obsidia e Vinera.^[85]
+Versão 7.6[editar | editar código-fonte]
+   Nessa atualização, implementada em 12 de dezembro de 2005, grande parte
+   dos gráficos do jogo foram substituídos por novos: barcos mais
+   detalhados, montanhas irregulares (em vez de quadradas), bordas
+   animadas de rios e oceanos, etc. Os efeitos de luz foram melhorados,
+   fazendo com que agora o cenário pudesse ser iluminado por luzes de
+   diferentes cores (não mais apenas branca).^[86]
+   Como um primeiro passo para revisar o balanço entre as vocações do
+   jogo, também foram introduzidas as seguintes mudanças:^[86]
+     * Os pontos de magia agora regeneravam quatro vezes mais rápidos,
+       dando maior flexibilidade no uso de certas magias
+     * Quase todas as magias instantâneas mantiveram o mesmo número de
+       pontos de magia necessários para o seu uso, enquanto que as demais
+       (que criam runas ou outros itens) aumentaram em até quatro vezes os
+       pontos de magia necessários
+     * A partir de agora, passou a ser necessário ter um certo nível para
+       usar cada magia, anteriormente os druidas e sorcerers podiam usar
+       algumas de suas melhores magias não muito depois de terem saído de
+       Rookgaard (o que, de acordo com a CipSoft, representava um
+       desbalanço já que seria fácil demais considerando o poder dessas
+       magias)
+     * Para ajudar os druidas e sorcerers, principalmente os de baixo
+       nível, a caçar foram introduzidas as wands e as rods, que são itens
+       mágicos que lançam ataques mágicos à distância
+   Com essa atualização, o cliente do Tibia para Linux passou a não mais
+   estar disponível, fazendo com que os jogadores usuários de Linux
+   tivessem de usar algum tipo de emulador para rodar o jogo (como o
+   emulador Wine).^[86]
+   Contudo, no dia seguinte à atualização houve um grande problema técnico
+   e todos os mundos tiveram de ser reinicializados para o estado do dia
+   anterior.^[87]
+   No dia 17 de janeiro de 2006, a CipSoft anunciou que se mudou para um
+   escritório maior, como parte de sua estratégia de expansão, e que no
+   momento já era composta por 22 pessoas trabalhando ativamente.^[88]
+   Em 28 de fevereiro foi anunciado que a parceria de vários anos com a
+   4Players havia chegado ao seu fim.^[89]
+   Não muito depois, foi estabelecido o atual recorde de jogadores online:
+   54.748 jogadores em 18 de março.^[90]
+   Na data de 16 de maio de 2006 foi oficialmente extinta a posição de
+   counsellor, sob a justificativa de que os senior tutors já realizavam a
+   maior parte das tarefas dos primeiros.^[91]
+   Ao longo dessa versão foram lançados mais oito mundos de normal
+   PvP:Balera, Furora, Neptera, Thoria,^[78] Kyra, Ocera,^[92] Keltera,
+   Xerena.^[93]
+Versão 7.7[editar | editar código-fonte]
+   No dia 17 de maio de 2006 foi apresentada essa atualização. Ela trouxe
+   ao cliente o suporte ao, além do já usado DirectX 5, DirectX 9 e ao
+   OpenGL; com o objetivo de aumentar a compatibilidade do jogo com
+   diferentes placas de vídeo.^[94]
+   Em adição à lista de jogadores ignorados, foi introduzida uma lista
+   branca (a lista de jogadores dos quais sempre poderia se receber
+   mensagens, independentemente dos demais ajustes). Além disso, foi
+   incluída a opção de se mostrar ou não na tela principal de jogo as
+   mensagens particulares recebidas (anteriormente alguns reclamavam que
+   as mensagens recebidas durante situações difíceis do jogo atrapalhavam
+   a visão).^[94]
+   A partir de agora a senha para entrar no jogo passou a ser
+   criptografada. Para se tentar melhorar as qualidades das mensagens
+   escritas no jogo, os senior tutors ganharam a habilidade de reportar a
+   CipSoft sentenças ditas nos chats públicos que violassem as
+   regras.^[94]
+   Contudo alguns jogadores passaram a experienciar problemas com essa
+   atualização, como passar a terem lags (latências) e não poderem mais
+   usar o modo full screen (tela cheia) de jogo. Para tentar sanar esses
+   problemas foi lançada no dia 31 de maio a atualização menor 7.71.^[95]
+   Após o lançamento da versão 7.71, um defeito com os mapas carregados na
+   pasta Tibia, mostrou que era necessária uma nova correção (alguns
+   jogadores viam no mapa automático um lugar diferente de onde realmente
+   estavam). Foi então lançada, no dia 9 de junho, a versão "7.72"
+   juntamente com uma ferramenta para eliminar os arquivos de extensão
+   ".map" que possuiam o defeito.^[96]
+   No dia 13 de julho, após um pouco mais de um ano sem o lançamento de
+   nenhum novo mundo non-PvP, foram apresentados mais dois do gênero:
+   Candia e Menera; completando o atual total de 72 mundos de jogo no
+   Tibia.^[97]
+Versão 7.8[editar | editar código-fonte]
+   Lançada no dia 1º de agosto de 2006, esta atualização trouxe ao jogo
+   novas áreas, novas roupas e algumas inovações técnicas.^[98]
+   Foi lançado a oeste the Tiquanda o arquipélago de Shattered Isles
+   (Ilhas Fragmentadas, ao pé da letra). Elas consistem de 12 ilhas, e são
+   de acesso exclusivo aos jogadores com premium account. Inicialmente
+   apenas duas delas se encontram abertas, porém esses jogadores podem
+   destravar os acessos para as outras ilhas completando certas
+   quests.^[98]
+   A maior delas se chama Vandura, e contém a nova cidade de Liberty Bay.
+   Os habitantes dessa ilha são humanos pacatos, alguns dos quais podendo
+   até oferecer missões aos jogadores. As mansões desse lugar são
+   influenciadas pela arquitetura vitoriana e é possível alugar casas no
+   local. As ilhas também incluíram várias novas áreas de caça e novos
+   monstros.^[98]
+   Além dessas mudanças no ambiente do jogo, as mudanças técnicas
+   apresentadas foram:^[98]
+     * Apenas o personagem que infligiu o maior dano em um monstro poderá
+       a partir de então coletar os itens que vieram no monstro, eles
+       poderão fazer isso em no máximo dez segundos após a derrota da
+       criatura (tempo no qual ninguém mais pode abrir o corpo do monstro
+       ou movê-lo). Se este personagem pertencer a uma equipe de jogadores
+       (o assim chamado party mode), os componentes da equipe também
+       poderão abrir o corpo do monstro. A mudança se deve porque
+       anteriormente vários jogadores reclamavam por causa de pessoas que
+       pegam os itens de inimigos que outros derrotaram.
+     * Foi adicionado um novo elemento na barra de habilidades do
+       personagem: a stamina (que em português é algo como "resistência
+       física"). A medida com que um personagem caça, sua stamina irá
+       diminuindo; e depois que ela acabar, não ganharão mais pontos de
+       experiência a medida que caçam, até que possuam novamente stamina o
+       bastante. No total, a stamina completa dura 42 horas consecutivas;
+       ela é regenerada quando o personagem está fora do jogo
+       (recuperar-se-á 1 minuto dela para cada 2 minutos fora do jogo), e
+       nas 14 horas finais dela o jogador receberá apenas metade dos
+       pontos de experiência normais. Esta mudança se deu para dificultar
+       o compartilhamento de contas; falta grave, de acordo com as regras
+       do jogo,^[68] onde várias pessoas se revezam para deixar um
+       personagem ativo por 24 horas por dia para que ele ganhe mais
+       experiência.
+     * Também passou a ser possível mirar em jogadores ataques mágicos de
+       runas através da janela de batalha (que contém o nome de todos
+       jogadores e monstros próximos). Antes isso não era possível, porém
+       a mudança será feita para tornar obsoletos os programas (ilegais,
+       de acordo com as regras de Tibia^[82]) que miravam automaticamente
+       as runas.
+     * Uma outra funcionalidade trouxe mais flexibilidade ao uso de itens.
+       Passou a ser possível configurar teclas ou combinação de teclas
+       para fazer que um determinado item seja usado, e também configurar
+       qual será o alvo onde o item será usado.
+     * Para acabar com o congestionamento de personagens querendo usar um
+       barco, a partir de então tornou-se possível pedir para o capitão do
+       mesmo transportar para um determinado local quando ele está falando
+       com outra pessoa.
+     * Foram adicionada uma função que permite o jogador controlar a
+       luminosidade da tela de jogo, e uma outra função para escolher
+       poder mostrar na janela de mensagens o nível do personagem que está
+       falando.
+   Contudo, 2 dias após o lançamento dessa nova versão chegou ao
+   conhecimento da CipSoft que havia um defeito no jogo que permitia aos
+   jogadores "criarem" dinheiro do jogo. Para que o defeito pudesse ser
+   fixado, todos os servidores foram desligados no decorrer do dia. Alguns
+   jogadores abusaram do defeito e foram severamente punidos, devido ao
+   sucesso das investigações não foi preciso reinicializar nenhum mundo e
+   todo o dinheiro criado foi apagado.^[99]
+   Alguns outros defeitos vieram com a atualização, por exemplo: os dias
+   restantes de Premium Account não eram exibidos na tela do cliente para
+   alguns jogadores; era possível curar monstros usando runas em mundos do
+   tipo non-PvP (normalmente, isso é apenas possível em mundos dos outros
+   tipos); e havia um lugar em uma das novas ilhas, Goroma, que quando o
+   jogador pisava nele ele era desconectado do jogo e, quando voltava,
+   descobria que havia morrido e perdido todos os items consigo. Para
+   corrigir a esses defeitos, em 29 de agosto foi lançada a atualização
+   menor 7.81.^[100]
+   No mesmo dia, 140 contas do jogo foram deletadas por abusarem de uma
+   fraqueza do jogo conhecida por "chargeback". Ele constitui no seguinte:
+   quando um jogador compra uma Premium Account e não paga por ela ou
+   cancela o pagamento depois da premium ter sido ativada, a sua conta é
+   banida até que seja comprada uma premium grande o bastante para
+   compensar os dias jogados sem pagar por ela; contudo, no instante que
+   ela é ativada a conta se torna ativa novamente, e se o jogador cancelar
+   novamente o pagamento ou não efetuá-lo a conta volta a ser suspensa. Os
+   jogadores deletados usavam isso para jogarem em Premium Accounts sem
+   nunca pagarem por ela.^[101]
+   Em 28 de setembro, cerca de dez meses após o descontinuamento do
+   desenvolvimento do cliente de Tibia para Linux, foi anunciado que uma
+   nova versão dele estava disponível em uma versão beta. O teste público
+   do cliente durou um pouco mais de duas semanas; até que, após a
+   correção de algumas falhas, ele foi lançado oficialmente. Dessa forma,
+   os usuários de Linux não mais precisavam usar um emulador, como o Wine
+   ou o Cedega, para rodar o jogo.^[102]
+   No dia 9 de novembro, foram apagadas cerca de 800 contas que eram
+   usadas para abusar de uma fraqueza do jogo conhecida por magebomb. Ela
+   constituía em desconectar do jogo diversos magos (druidas e sorcerers)
+   em uma certa área; e, quando um jogador forte passava por esse local,
+   os magos eram reconectados ao jogo (em Tibia, um personagem retorna ao
+   jogo no exato local onde saiu) e lançavam nesse jogador um ataque
+   mágico e imediatamente após eram desconectados (era usado um programa
+   automático para realizar tais ações), deixando assim o personagem
+   atacado sem chances de defesa ou de agir. Normalmente um personagem que
+   está atacando ou sendo atacado não pode se desconectar do jogo, até que
+   se passe um tempo após a luta; porém o ataque do magebomb era feito tão
+   rapidamente, que isso acabava burlando tal recurso do jogo. Para
+   resolver esse problema, foi realizada nos servidores uma atualização
+   que eliminou tal vulnerabilidade (os jogadores passaram a poder atacar
+   outros apenas 10 segundos após os entrarem no jogo, a não ser que sejam
+   atacados primeiros).^[103]
+Versão 7.9[editar | editar código-fonte]
+   Lançada em 12 de dezembro de 2006; esta atualização apresentou novas
+   áreas, revisão de algumas áreas já existentes, e novas
+   funcionalidades.^[104]
+   As casas da cidade de Ab'Dendriel foram remodeladas, fazendo com que
+   suas paredes passassem a ser de material maciço em vez de troncos de
+   árvore. Foram lançadas duas áreas novas: Pits of Inferno (na verdade;
+   um relançamento de uma área removida há anos, que foi revisada e também
+   recebeu inimigos extremamente poderosos); e Dream Challenge (na qual os
+   jogadores devem resolver diversos enigmas para obter seus segredos e
+   tesouros).^[104]
+   Os bancos do jogo passaram a oferecer o sistema de contas bancárias:
+   tornando assim possível que os jogadores acessassem seu dinheiro de
+   qualquer filial do banco, e que pudessem transferir dinheiro entre
+   contas. Também foi lançado o Quest Log, um registro das missões que o
+   personagem já completou. Também novos monstros foram adicionados ao
+   jogo.^[104]
+Vocações[editar | editar código-fonte]
+   Existem quatro vocações básicas^[105] entre as quais o jogador pode
+   escolher uma para seu personagem:
+Feiticeiro[editar | editar código-fonte]
+   Sorcerers não são grandemente habilidosos com armas e não levam
+   vantagem em combates corpo a corpo, mas podem ser devastadores com
+   inúmeros tipos de magias e runas de ataque. Sua especialidade é a
+   energia.
+Druida[editar | editar código-fonte]
+   Druids são muito conhecidos por seus poderes de cura, e apesar de
+   evoluírem com a mesma proporção dos (sorcerers), não têm a mesma força
+   de magia. Por serem muito semelhante aos sorcerers, os druidas fazem
+   uso das mesmas runas que eles. Sua especialidade é o gelo.
+Paladino[editar | editar código-fonte]
+   Paladins são grandemente habilidosos em combate à distância e por isto
+   são os melhores arqueiros. Possuem um potencial mágico alto, mas sendo
+   inferior aos magos e superior aos cavaleiros. As armas utilizadas pelos
+   paladinos, são: arco, flecha e lanças.
+Cavaleiro[editar | editar código-fonte]
+   Knights são os melhores no manuseio de armas, sendo fortes e
+   resistentes para combates corpo-a-corpo, com suas habilidades de defesa
+   e ataques armados. Sua evolução na área de magias é a mais limitada e
+   lenta em comparação às demais vocações. As armas utilizadas pelos
+   cavaleiros, são: espadas, machados e clavas.
+Características gerais[editar | editar código-fonte]
+   Requisitos do sistema
+                                   Requisitos
+                     Microsoft Windows
+   Sistema Operacional Windows XP (ou superior)
+     Espaço em Disco   91 MB
+     Placa de Vídeo    DirectX 5.0 (ou superior); OpenGL
+          Rede         Conexão com a Internet
+                         GNU/Linux
+   Sistema Operacional Linux com libc 6 (ou superior)
+     Espaço em Disco   92 MB
+     Placa de Vídeo    X11; OpenGL
+          Rede         Conexão com a Internet
+   Tibia é um jogo que pode ser jogado gratuitamente por tempo
+   indeterminado, porém, há a opção de se obter uma assinatura (também
+   conhecida como P.A., P.T. ou Pacc), que oferece ao jogador acesso
+   exclusivo à: áreas de caça, magias, roupas (outfits) etc., o que pode
+   facilitar o jogador a ganhar mais pontos de experiência (EXP) e ter
+   maior satisfação no jogo em relação àqueles que não têm a
+   assinatura.^[106]
+   Os gráficos do jogo são em duas dimensões,^[107] apresentando
+   pouquíssimos detalhes, sendo possível notar com facilidade os 'pixels'
+   da tela. Em 1999 havia o seguinte texto na página do jogo: "Sound will
+   definitely be implemented. This will take some time, but the sound
+   tracks can be composed meanwhile. The format will be MIDI,^[108] que
+   quer dizer "O som definitivamente será implementado. Isso tomará algum
+   tempo, mas as faixas de som podem ser compostas nesse meio tempo. O
+   formato será MIDI" Até hoje Tibia não tem som, apenas textos como
+   onomatopeias indicando o som de alguma criatura ou instrumento
+   musical.^[109]
+   Diferentemente dos RPGs de console, Tibia não possui um objetivo
+   predeterminado a ser alcançado: os jogadores determinam a forma como
+   desejam seguir as suas aventuras assim como outros jogos de MMORPG
+   (Massive Multiplayer Online Rolling Playing Games), e o mundo continua
+   existindo e mudando mesmo que os jogadores não estejam lá. Quando um
+   jogador entra no mundo, ele é representado por um personagem ou avatar
+   (chamado no jogo de character).^[110] Tudo o que acontece com um
+   jogador é registrado no servidor em tempo real, assim, quando ele
+   voltar, o seu personagem estará com os mesmos atributos e
+   características de quando saiu.^[6]
+   O primeiro jogador de Tibia apenas veio cinco dias depois do jogo ser
+   lançado,^[111] ele se chamava Albe e entrou no dia 10 de janeiro de
+   Os jogadores podem criar vários personagens em uma mesma conta, mas
+   caso perca a sua conta ou seja roubado, perderá todos os personagens
+   daquela conta, aconselhando a criar não mais que três personagens por
+   conta. Cada um desses personagens pertence a apenas um mundo do jogo,
+   porém é possível ter mais de um personagem no mesmo mundo. O jogo
+   possui atualmente 81 mundos,^[112] cujos servidores estão na Alemanha e
+   nos Estados Unidos^[^carece de fontes?]; os mapas e os locais de cada
+   um desses mundos são os mesmos, o que muda de um para outro são algumas
+   regras de combate jogador contra jogador e a comunidade de
+   jogadores.^[113]
+   Cada personagem pode explorar e interagir com o universo do jogo e
+   enfrentar diversos inimigos controlados pelo computador, contando que
+   os jogadores gratuitos estão limitados a esses atributos. Podendo
+   também se relacionar, conversar, lutar com as criaturas de outros
+   jogadores e completar missões (quests).^[8]
+   O jogo teve o seu máximo de jogadores online simultaneamente em
+   Novembro de 2007, atingindo o número de 64.028 jogadores conectados
+   simultâneamente.^[112] Desde então, houve uma redução lenta na
+   comunidade de jogadores de Tibia. O jogo, segundo boa parte dos
+   jogadores, está abandonado por parte da CipSoft; empresa que fundou e o
+   administra. No início do desenvolvimento do jogo, havia disponível no
+   site do jogo uma lista de coisas que faltavam em Tibia. Em mais de 15
+   anos de jogo poucas destas coisas foram implementadas.^[114]^[115]
+   Há uma grande quantidade de jogadores que vendem seus personagens no
+   Tibia por dinheiro da vida real (rl) - (a venda de "characters" é
+   proibida - Account Trading or Sharing), onde já foram registrados
+   roubos do dinheiro e outros vários problemas. A venda de itens e "gps",
+   proibida também, virou fonte de lucro para alguns jogadores. Como não
+   há fiscalização dentro do jogo, "bots" com level 8 usam o canal de
+   troca para anunciar sites de propaganda, venda de itens, venda de
+   trials, venda de personagens, propaganda de servidores piratas
+   etc..^[116]
+   Em 2001 havia textos na página do jogo dizendo que na fase final do
+   projeto de Tibia o código dos servidores e o protocolo de comunicação
+   do jogo seriam publicados.^[114]^[115]
+Principais locais[editar | editar código-fonte]
+Cidades[editar | editar código-fonte]
+   No Tibia existem diversas cidades, entre elas, algumas de importância
+   relativamente grande em Tibia. Essas cidades se localizam em diversos
+   locais do continente do jogo (conhecido dentro do jogo como Main) ou em
+   alguma ilha próxima.^[117]
+   Para viajar de uma para outra se pode ir a pé, ou usar algum meio de
+   transporte (barco ou tapete mágico). Contudo há cidades onde apenas
+   pode se chegar usando algum meio de transporte e apenas jogadores com
+   Premium Account podem usá-los (a exceção da balsa que leva às Ice
+   Islands, que todos podem usar), o que significa que tais locais são de
+   acesso apenas para esses jogadores.^[118]
+Ankrahmun[editar | editar código-fonte]
+   É uma das cidades localizada no deserto do continente de Darama, ela é
+   formada por pirâmides e é governada por um faraó morto-vivo.É uma das
+   duas cidades que possuem um grande deserto no jogo. Essa cidade é de
+   acesso apenas a quem possui Premium Account
+Ab'Dendriel[editar | editar código-fonte]
+   É a cidade dos elfos. A cidade, localizada a nordeste do continente
+   tibiano, possui uma grande vegetação e as casas construídas em árvores.
+   Seu nome vem da palavra grega déndron, que significa árvore
+Carlin[editar | editar código-fonte]
+   É a cidade rival da de Thais (a capital do mundo de Tibia). Em sua
+   história, Carlin foi palco de uma grande guerra; e atualmente ela é
+   governada apenas por mulheres, que tomaram o controle da cidade
+Darashia[editar | editar código-fonte]
+   É uma das cidades do deserto do continente de Darama, ela é famosa pelo
+   mel que produz. Essa cidade é de acesso apenas a quem possui Premium
+   Account
+Edron[editar | editar código-fonte]
+   É a única cidade da ilha de mesmo nome, nessa cidade é possível comprar
+   magias que não podem ser conseguidas em nenhum outro lugar. Essa cidade
+   é de acesso apenas a quem possui Premium Account
+Kazordoon[editar | editar código-fonte]
+   É a cidade dos dwarfs (anões). Com o seu conhecimento sobre água e
+   terra, seus artesãos e engenheiros construíram a cidade em um vulcão
+   extinto. Seus habitantes basicamente sobrevivem pela mineração e o
+   artesanato de equipamentos de batalha. O nome da cidade vem da palavra
+   Khazad-dûm, que significa "Mina dos anões", de acordo com o Khuzdûl (a
+   língua dos anões do universo de Senhor dos Anéis)
+Liberty Bay[editar | editar código-fonte]
+   É a cidade da ilha de Vandura, que fica no arquipélago Shattered Isles.
+   A cidade é famosa por seus recursos naturais, especialmente a sua cana
+   de açúcar da qual é feita rum. Essa cidade é de acesso apenas a quem
+   possui Premium Account
+Port Hope[editar | editar código-fonte]
+   É a cidade localizada no centro da selva do continente de Darama, é uma
+   colônia de Thais. Essa cidade é de acesso apenas a quem possui Premium
+   Account
+Rookgaard[editar | editar código-fonte]
+   Era a antiga ilha introdutória do jogo onde os iniciantes poderiam
+   aprender como jogar. Ainda pode ser acessada por meio de NPCs em
+   Dawnport.
+   Dawnport
+   Esta é a nova ilha introdutória para novos jogadores, onde os mesmos
+   podem testar todas as classes para verem qual é a melhor escolha para
+   si. Completando level 8 podem ir para mainland.
+Thais[editar | editar código-fonte]
+   É a maior e mais antiga cidade, o Reino de Thais, que além de cobrir o
+   Sul de Main, cobre a ilha de Edron e outros territórios imensos, como
+   os continentes de Tiquanda e Shattered Isles. Ela considera a si
+   própria como sendo a capital de Tibia, mesmo que o seu rei Tibianus III
+   nunca o tenha confirmado oficialmente. Nela é possível encontrar
+   atrações como um salão de jogos, um museu e um bar.^[119]
+Venore[editar | editar código-fonte]
+   É uma grande cidade de mercadores. Na história do jogo, ela
+   inicialmente começou com um grupo de colonizadores de Thais (a capital
+   de Tibia), contudo agora chega a rivalizar com essa cidade em termos de
+   riqueza. Os comerciantes locais encontram-se associados em fortes
+   grupos
+Svargrond[editar | editar código-fonte]
+   É situada no extremo noroeste do jogo e é uma grande ilha de gelo.
+   Possui vilarejo de chakoyas, bárbaros, gigantes e outras criaturas
+Yalahar[editar | editar código-fonte]
+   É situada no extremo norte do jogo. Seus habitantes, conhecidos por
+   Yalahari, são uma das raças mais inteligentes. A cidade foi devastada
+   por uma entidade chamada Variphor
+Farmine[editar | editar código-fonte]
+   Farmine é uma cidade subterrânea localizada em Zao. Toda a história de
+   Zao não é bem conhecida. Lagartos e Dragões ou sempre viveram no
+   continente ou chegaram por algum meio. Após um tempo, os Orcs chegaram
+   e desde então têm lutado contra os lagartos. Possivelmente antes dos
+   lagartos chegarem em Zao, homens primitivos já viviam no lugar, mas
+   depois de perderem a batalha para os lagartos se estabeleceram no lado
+   Leste da montanha.^[10]
+Gnomebase[editar | editar código-fonte]
+   Gnomebase é uma cidade no subterrâneo de Tibia, que chegou na versão
+   9.60 de Tibia, no dia 11 de Julho de 2012. A cidade é habitada por
+   gnomos, uma raça escondida durante séculos do resto do mundo, sendo
+   conhecida somente pelos anões, que os esconderam por muito tempo.
+Gray Beach[editar | editar código-fonte]
+   Gray Beach é a pequena praia ao sul de Quirefang, protegida por
+   montanhas que a separam da The Hive, o local aonde os insetos vivem.
+Ver também[editar | editar código-fonte]
+     * Tibia: Land of Heroes
+     * CipSoft
+     * Grand Chase
+     * História do Tibia
+     * Lineage
+     * Meridian 59
+     * OpenTibia (emulador de servidor do Tibia)
+     * Runescape
+     * The Realm Online
+     * Ultima Online
+     * Lista dos monstros de Tibia
+Referências
+    1. ↑ «About Us». CipSoft. Consultado em 29 de agosto de 2013
+    2. ↑ «Download Client». Tibia.com. Consultado em 29 de agosto de 2013
+    3. ↑ «Tibia News - Journey Onward: How CipSoft Made Tibia Come Alive».
+       Tibia.com. 3 de agosto de 2009. Consultado em 29 de agosto de 2013
+    4. ↑ «What is Tibia?». Tibia.com. Consultado em 29 de agosto de 2013
+    5. ↑ http://www.tibiawiki.com.br/wiki/Updates/11.02  Em falta ou vazio
+       |título= (ajuda)
+    6. ↑ ^a ^b «Game Guides - Why Play Tibia?». Tibia.com. Consultado em
+       29 de agosto de 2013
+    7. ↑ «About Tibia - Game Features». Tibia.com. Consultado em 29 de
+       agosto de 2013
+    8. ↑ ^a ^b «Game Guides - The World of Tibia». Tibia.com. Consultado
+       em 29 de agosto de 2013
+    9. ↑ «Creatures». Tibia.com. Consultado em 29 de agosto de 2013
+   10. ↑ ^a ^b «Game Guides - Maps». Tibia.com. Consultado em 29 de agosto
+       de 2013
+   11. ↑ «Maps - Rookgaard». Tibia.com. Consultado em 29 de agosto de
+   12. ↑ «Começando a Jogar». TibiaBR.com. Consultado em 29 de agosto de
+   13. ↑ «Tibia News - Chatting with our Lead Programmer». Tibia.com. 9 de
+       novembro de 2009. Consultado em 29 de agosto de 2013
+   14. ↑ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m ^n ^o ^p Tibia project -
+       (in Web.Archive.org) Antigo texto que estava disponível no site
+       oficial do jogo
+   15. ↑ TibiaNews.net - Tibian History Part I - Back in the old Days
+   16. ↑ Primeira versão do site do Tibia
+   17. ↑ ^a ^b ^c ^d ^e Tibia.com – Tibia Version Beta 6.0 is here!
+   18. ↑ Tibia.com – Linux client available
+   19. ↑ Tibia.com – Assistants page added
+   20. ↑ ^a ^b ^c – Tibia.com – Christmas Update
+   21. ↑ Tibia.com – The Future of Tibia
+   22. ↑ Tibia.com – The Future of Tibia - Survey
+   23. ↑ Tibia.com – Tibia Server has moved
+   24. ↑ Tibia.com – The update is online!
+   25. ↑ Tibia.com – About the current state
+   26. ↑ Tibia.com – Account Update
+   27. ↑ Tibia.com – Will you sign up for a Premium Account?
+   28. ↑ Tibia.com – Server back to normal
+   29. ↑ ^a ^b Tibia.com – Tibia version 6.3 is online
+   30. ↑ Tibia.com – Miscellaneous news
+   31. ↑ ^a ^b Tibia.com - Tibia version 6.4 is online
+   32. ↑ Tibia.com – Premium accounts available
+   33. ↑ Tibia.com – Thank you!
+   34. ↑ Tibia.com – Minor changes in Tibia
+   35. ↑ ^a ^b Tibia.com – A new world is born!
+   36. ↑ ^a ^b Tibia.com – Tibia version 6.6 is online!
+   37. ↑ Tibia.com – Premia is online
+   38. ↑ Tibia.com – Map update
+   39. ↑ ^a ^b Tibia.com – Update to Version 7.0
+   40. ↑ Tibia.com – Reset of all game worlds
+   41. ↑ Tibia.com – New world Amera
+   42. ↑ Tibia.com – Non-PvP World Secura
+   43. ↑ Tibia.com – New world Libera
+   44. ↑ Tibia.com – New world Lunara
+   45. ↑ ^a ^b Tibia.com – Christmas Update
+   46. ↑ Tibia.com – CipSoft's Future
+   47. ↑ Tibia.com – New worlds Eternia and Trimera
+   48. ↑ Tibia.com – New worlds Calmera and Danubia
+   49. ↑ Tibia.com – Account Personalization and Recovery System
+   50. ↑ Tibia.com – Small changes on the world map
+   51. ↑ Tibia.com – Hacking attack on Tibia's servers
+   52. ↑ Tibia.com – New world Isara
+   53. ↑ Tibia.com – New world Rubera
+   54. ↑ Tibia.com – New game worlds Julera and Valoria
+   55. ↑ Tibia.com – Christmas Update
+   56. ↑ Tibia.com - Update of the Tibia Client to Version 7.24
+   57. ↑ Tibia.com - New world Hiberna
+   58. ↑ Tibia.com - New Game Worlds Solera and Titania
+   59. ↑ Tibia.com - Four New Game Worlds Started
+   60. ↑ Tibia.com - New Game Worlds Aldora and Mythera
+   61. ↑ Tibia.com - Major Game Update: Tibia 7.3
+   62. ↑ Tibia.com - New Game Worlds Tenebra and Galana
+   63. ↑ Tibia.com - New Voting Section
+   64. ↑ Tibia.com - New Game Worlds Fortera and Lucera
+   65. ↑ Tibia.com - New Game Worlds Celesta and Pythera
+   66. ↑ Tibia.com - Christmas Update 2004
+   67. ↑ Tibia.com - Dismissal of a Gamemaster
+   68. ↑ ^a ^b Regra 3g do Tibia
+   69. ↑ Tibia.com - Punishments Due to Account Sharing
+   70. ↑ Tibia.com - Tenebra Moved
+   71. ↑ «Recordes do Tibia - Tibia Wiki». www.tibiawiki.com.br.
+       Consultado em 3 de abril de 2017
+   72. ↑ Tibia.com - New Game Worlds Arcania and Jamera
+   73. ↑ Tibia.com - New Game Worlds Astera, Pandoria and Shivera
+   74. ↑ Tibia.com - New Game Worlds Danera, Elera and Iridia
+   75. ↑ Tibia.com - Four New Game Worlds
+   76. ↑ Tibia.com - Four New Game Worlds
+   77. ↑ ^a ^b Tibia.com - Four New Game Worlds
+   78. ↑ ^a ^b Tibia.com - New Game Worlds
+   79. ↑ ^a ^b Tibia.com - Four New Game Worlds Started
+   80. ↑ Tibia.com - Two New Non-PvP Game Worlds
+   81. ↑ ^a ^b Tibia.com - Major Game Update: Tibia 7.5
+   82. ↑ ^a ^b Regra 3c do Tibia
+   83. ↑ TibiaNews.net - Examining Soul Points
+   84. ↑ Tibia.com - Board Moderation and Senior Tutors
+   85. ↑ Tibia.com - New Game Worlds
+   86. ↑ ^a ^b ^c Tibia.com - Major Game Update 7.6
+   87. ↑ Tibia.com - Reset of All Game Worlds
+   88. ↑ Tibia.com - CipSoft Has Moved Office
+   89. ↑ Tibia.com - Partnership With 4Players Ended
+   90. ↑ Tibia.com - Tibia statistics
+   91. ↑ Tibia.com - Server Downtime and Removal of Counsellor Position
+   92. ↑ Tibia.com - New Game Worlds
+   93. ↑ Tibia.com - New Game Worlds
+   94. ↑ ^a ^b ^c Tibia.com - Technical Update 7.7
+   95. ↑ Tibia.com - Minor Client Update
+   96. ↑ Tibia.com - Solutions For Faulty Automaps
+   97. ↑ Tibia.com - New Game Worlds
+   98. ↑ ^a ^b ^c ^d Tibia.com - Major Game Update 7.8
+   99. ↑ Tibia.com - Game Servers Offline for Bug Fix
+   100. ↑ Tibia.com - Various Announcements
+   101. ↑ Tibia.com - Deleted Accounts
+   102. ↑ Tibia.com - Beta Test of Native Linux Tibia Client!
+   103. ↑ Tibia.com - Minor Patch Released
+   104. ↑ ^a ^b ^c Tibia.com - Major Game Update 7.9
+   105. ↑ «Game Guides - Vocations». Tibia.com. 9 de novembro de 2009.
+       Consultado em 29 de agosto de 2013
+   106. ↑ «FAQ - What are Premium Scrolls?». Tibia.com. Consultado em 29
+       de agosto de 2013
+   107. ↑ «About Tibia - Screenshots». Tibia.com. Consultado em 29 de
+       agosto de 2013
+   108. ↑ «Tibia Assistance». Internet Archive: Wayback Machine.
+       Consultado em 6 de abril de 2012
+   109. ↑ «About Tibia - Screenshots». Tibia.com. Consultado em 29 de
+       agosto de 2013
+   110. ↑ «Game Guides - Accounts». Tibia.com. Consultado em 29 de agosto
+       de 2013
+   111. ↑ «Tibia Project». Internet Archive: Wayback Machine. 4 de
+       novembro de 2000. Consultado em 29 de agosto de 2013
+   112. ↑ ^a ^b «Community - Worlds». Tibia.com. Consultado em 29 de
+       agosto de 2013
+   113. ↑ «Game Guides - Creating a Character». Tibia.com. Consultado em
+       29 de agosto de 2013
+   114. ↑ ^a ^b «Tibia Guide - Protocol». Internet Archive: Wayback
+       Machine. 7 de janeiro de 2002. Consultado em 29 de agosto de 2013
+   115. ↑ ^a ^b «Tibia Project - Future». Internet Archive: Wayback
+       Machine. 4 de novembro de 2000. Consultado em 29 de agosto de 2013
+   116. ↑ «Game Guides - Support». Tibia.com. Consultado em 29 de agosto
+       de 2013
+   117. ↑ «Game Guides - Cities». Tibia.com. Consultado em 29 de agosto de
+   118. ↑ «Game Guides - Exploring the World». Tibia.com. Consultado em 29
+       de agosto de 2013
+   119. ↑ «Thais - Tibia Wiki». www.tibiawiki.com.br. Consultado em 29 de
+       novembro de 2017
+Bibliografia[editar | editar código-fonte]
+     * Tibia News (em inglês)
+     * Tibia Wiki (em inglês)
+Ligações externas[editar | editar código-fonte]
+     * [Website oficial ]
+     * Portal Tibia (em português brasileiro)
+     * Tibia Wiki (em português brasileiro)
+     * TibiaBR (em português brasileiro)
+   v • e
+   Tibia
+   Raças de monstros Ciclopes  · Demons  · Dragões  · Dwarfs  · Elfos  ·
+   Goblins  · Minotauros  · Trolls
+   História do Jogo Tibia Land of Heroes  · OpenTibia  · Lista dos
+   monstros  · Main
+     * Portal dos jogos eletrônicos
+   Obtida de
+   "https://pt.wikipedia.org/w/index.php?title=Tibia&oldid=51107976"
+   Categorias:
+     * !Páginas com citações sem titulo
+     * Tibia
+     * Jogos online
+     * Jogos eletrônicos de 1997
+     * Jogos para Windows
+     * Jogos para Linux
+     * RPGs eletrônicos
+     * Jogos em Flash
+     * Jogos eletrônicos desenvolvidos na Alemanha
+   Categorias ocultas:
+     * !Páginas com citações e URLs vazios
+     * !Artigos que carecem de notas de rodapé desde agosto de 2013
+     * !Artigos de arte que carecem de notas de rodapé
+     * !Artigos de geografia que carecem de notas de rodapé
+     * !Website oficial diferente no Wikidata e na Wikipedia
+Menu de navegação
+Ferramentas pessoais
+     * Não autenticado
+     * Discussão
+     * Contribuições
+     * Criar uma conta
+     * Entrar
+Domínios
+     * Artigo
+     * Discussão
+Variantes
+Vistas
+     * Ler
+     * Editar
+     * Editar código-fonte
+     * Ver histórico
+Mais
+Busca
+   ____________________ Pesquisar Ir
+Navegação
+     * Página principal
+     * Conteúdo destacado
+     * Eventos atuais
+     * Esplanada
+     * Página aleatória
+     * Portais
+     * Informar um erro
+     * Loja da Wikipédia
+Colaboração
+     * Boas-vindas
+     * Ajuda
+     * Página de testes
+     * Portal comunitário
+     * Mudanças recentes
+     * Manutenção
+     * Criar página
+     * Páginas novas
+     * Contato
+     * Donativos
+Imprimir/exportar
+     * Criar um livro
+     * Descarregar como PDF
+     * Versão para impressão
+Ferramentas
+     * Páginas afluentes
+     * Alterações relacionadas
+     * Carregar ficheiro
+     * Páginas especiais
+     * Hiperligação permanente
+     * Informações da página
+     * Elemento Wikidata
+     * Citar esta página
+Noutros idiomas
+     * Català
+     * Čeština
+     * Deutsch
+     * English
+     * Español
+     * Suomi
+     * Føroyskt
+     * Français
+     * Magyar
+     * Nederlands
+     * Norsk
+     * Polski
+     * Simple English
+     * Svenska
+   Editar hiperligações
+     * Esta página foi editada pela última vez à(s) 00h24min de 25 de
+       janeiro de 2018.
+     * Este texto é disponibilizado nos termos da licença Creative Commons
+       - Atribuição - Compartilha Igual 3.0 Não Adaptada (CC BY-SA 3.0);
+       pode estar sujeito a condições adicionais. Para mais detalhes,
+       consulte as condições de uso.
+     * Política de privacidade
+     * Sobre a Wikipédia
+     * Avisos gerais
+     * Programadores
+     * Declaração sobre cookies
+     * Versão móvel
+     * Wikimedia Foundation
+     * Powered by MediaWiki
