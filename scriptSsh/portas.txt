@@ -1,0 +1,25 @@
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-02-19 17:52 -03
+Initiating Ping Scan at 17:52
+Scanning localhost (127.0.0.1) [2 ports]
+Completed Ping Scan at 17:52, 0.00s elapsed (1 total hosts)
+Initiating Connect Scan at 17:52
+Scanning localhost (127.0.0.1) [1000 ports]
+Discovered open port 443/tcp on 127.0.0.1
+Discovered open port 80/tcp on 127.0.0.1
+Discovered open port 22/tcp on 127.0.0.1
+Discovered open port 902/tcp on 127.0.0.1
+Discovered open port 631/tcp on 127.0.0.1
+Completed Connect Scan at 17:52, 0.07s elapsed (1000 total ports)
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00031s latency).
+Not shown: 995 closed ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+631/tcp open  ipp
+902/tcp open  iss-realsecure
+
+Read data files from: /usr/bin/../share/nmap
+Nmap done: 1 IP address (1 host up) scanned in 0.15 seconds

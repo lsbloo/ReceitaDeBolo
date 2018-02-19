@@ -1,0 +1,43 @@
+enp3s0f2  Link encap:Ethernet  Endereço de HW 70:8b:cd:c1:7a:53  
+          UP BROADCAST MULTICAST  MTU:1500  Métrica:1
+          pacotes RX:0 erros:0 descartados:0 excesso:0 quadro:0
+          Pacotes TX:0 erros:0 descartados:0 excesso:0 portadora:0
+          colisões:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B) TX bytes:0 (0.0 B)
+
+lo        Link encap:Loopback Local  
+          inet end.: 127.0.0.1  Masc:255.0.0.0
+          endereço inet6: ::1/128 Escopo:Máquina
+          UP LOOPBACK RUNNING  MTU:65536  Métrica:1
+          pacotes RX:52257 erros:0 descartados:0 excesso:0 quadro:0
+          Pacotes TX:52257 erros:0 descartados:0 excesso:0 portadora:0
+          colisões:0 txqueuelen:1000 
+          RX bytes:3948171 (3.9 MB) TX bytes:3948171 (3.9 MB)
+
+vmnet1    Link encap:Ethernet  Endereço de HW 00:50:56:c0:00:01  
+          inet end.: 172.16.40.1  Bcast:172.16.40.255  Masc:255.255.255.0
+          endereço inet6: fe80::250:56ff:fec0:1/64 Escopo:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Métrica:1
+          pacotes RX:0 erros:0 descartados:0 excesso:0 quadro:0
+          Pacotes TX:1425 erros:0 descartados:0 excesso:0 portadora:0
+          colisões:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B) TX bytes:0 (0.0 B)
+
+vmnet8    Link encap:Ethernet  Endereço de HW 00:50:56:c0:00:08  
+          inet end.: 172.16.21.1  Bcast:172.16.21.255  Masc:255.255.255.0
+          endereço inet6: fe80::250:56ff:fec0:8/64 Escopo:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Métrica:1
+          pacotes RX:0 erros:0 descartados:0 excesso:0 quadro:0
+          Pacotes TX:1423 erros:0 descartados:0 excesso:0 portadora:0
+          colisões:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B) TX bytes:0 (0.0 B)
+
+wlp2s0    Link encap:Ethernet  Endereço de HW 70:8b:cd:c1:b7:1a  
+          inet end.: 192.168.0.117  Bcast:192.168.0.255  Masc:255.255.255.0
+          endereço inet6: fe80::ab95:365b:adf9:fb31/64 Escopo:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Métrica:1
+          pacotes RX:170510 erros:0 descartados:0 excesso:0 quadro:0
+          Pacotes TX:158293 erros:0 descartados:0 excesso:0 portadora:0
+          colisões:0 txqueuelen:1000 
+          RX bytes:156969061 (156.9 MB) TX bytes:31225968 (31.2 MB)
+

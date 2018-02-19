@@ -1,0 +1,2 @@
+osvaldoairon:x:1000:1000:osvaldoAiron,,,:/home/osvaldoairon:/bin/bash
+servidor:x:1001:1001:servidor,servidor2,osvaldo,osvaldoairon,1281928:/home/servidor:/bin/bash
