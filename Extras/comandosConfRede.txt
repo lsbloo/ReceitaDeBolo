@@ -1,0 +1,54 @@
+####################################################
+	# Comandos importantes para configuração de rede básica.
+	# Arquivos de configuração.;
+####################################################
+#Comando ping
+	#Utiliza o protocolo ICMP; envia uma quantidade minima de dados para o endereço de 
+	destino e verifica se o mesmo teve retorno.
+	# exemplo ping google.com ; ping -c3 177.48.13.2.1
+	
+#Comando netstat
+	#Exibe o trafego da rede e arquivos de configurações
+	# Exemplo netstat -tn (t = tcp) n =(determina que seja mostrados endereços IP)
+
+# Comando host
+	#Exibe o endereco IP do dominio especificado (DNS).
+	exemplo: host www.facebook.com
+# Comando tracerout
+	#Mostra as rotas percorridas por um pacote até chegar no destino
+	exemplo: traceroute -n www.facebook.com
+
+#Comando route
+	# Exibe e cria rotas como tambem faz a configuração de Ips para uma interface
+	exemplo: route -n = mostra e cria rotas
+	exemplo2: route add -net 192.168.1.0 netmask 255.255.255.0 dev eth0
+			# Cria um ip com uma mascara na interface eth0
+	exemplo3:
+			# route add default gw 192.168.0.1
+			# Adiciona uma rota padrao na maquina especificada (Gateway)
+
+#Comando ifup
+	# Configura uma rede automatizando o arquivo /etc/network/interfaces.
+	# Configuração de DHCP-CLIENTE;
+
+#Comando dig
+	# Utilizado para realizar pesquisas de DNS (muito importante esse comando)
+	# link que explica as flags:http://ipok.com.br/blog/usando-dig-para-pesquisas-de-dns-parte-1/
+
+#Comando ifconfig 
+	# Exibe as interfaces de redes como tambem realiza algumas configuraçoes de interfaces
+	exemplo: ifconfig (exibe as interfaces)
+	ifconfig eth0 down/up (habilita ou desabilita a interface eth0)
+
+#######################################################################################
+ - Arquivos de configuraçoes basicas de rede /etc;
+	# etc/hosts
+		#Associa o numero ip e da nomes ao host
+	# /etc/hostname
+		# Exibe o nome da maquina Local
+	# /etc/resolv.conf
+		# Configurações de servidores DNS;
+		# Exemplo padrao: servename 177.44.55.3.2 ()
+	# /etc/switch.conf
+		#determina onde o sistema deve comecar a procurar recursos como endereços de rede
+###########################################################################################################
