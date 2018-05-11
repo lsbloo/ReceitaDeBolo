@@ -2,6 +2,17 @@
 #Script que fornece uma interface Grafica para commits no gitHUB;
 #Automatizar upload de dados no github sem a necessidade de comandos GIT;
 
+figlet=$(which figlet)
+
+if [ -z $figlet ]; then
+	sudo apt-get install -y figlet
+else
+	figlet Bem vindo ao gitHub SHELLSCRIPT
+	echo 
+	echo 'Scripter: lsbloo'
+	sleep 4
+fi
+
 function exeDependences(){
 	dialog=$(which dialog)
 	ver="/usr/bin/dialog"
@@ -10,7 +21,8 @@ function exeDependences(){
 	else
 	 	echo $ver
 		echo $dialog
-		dialog --title "Instalando dependencia!" --msgbox 'Instalando a interface Dialog' 5 30
+		sudo apt-get install -y dialog
+		#dialog --title "Instalando dependencia!" --msgbox 'Instalando a interface Dialog' 5 30
 	fi
 	return 1
 }
