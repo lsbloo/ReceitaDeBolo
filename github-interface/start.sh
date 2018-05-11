@@ -21,9 +21,85 @@ function user_ch(){
 		#echo 'usuario escolhe opcao'
 		#usuario escolhe opcao!
 		opcao=$(dialog --stdout --title "Escolha sua opção!" --menu 'Escolha o que deseja fazer' 10 50 50 commitBranch 'Commit criando sua Branch?' commitMaster 'Commit criando sua Master?' cloneRepo    'Clonar um Repositorio?')
-		echo $opcao		
+		echo $opcao
 	fi
 	return 2;
+}
+function commitB(){
+	comB="commitBranch"
+	#verificar o diretorio do repositorio, da o git status pra exibir arquivos , pedi o nome do branch
+	# da o commit 
+	# usar o git config caso ele nao tenha configurado a maquina
+	# da o push
+	if [ $chose == $comB ]; then
+		diretorioAtual=$(pwd)
+		dialog --title "Seu diretorio Atual" --msgbox $diretorioAtual 10 100
+		dialog --stdout --title "Continuar no Diretorio?" --yesno '\n Você deseja continuar no diretorio Atual?' 10 50
+		if [ $? -eq 0 ]; then
+			echo 'Status Atual do seu REPOSITORIO'
+			echo '----------------------------------------------------------------------'
+			echo 
+			echo
+			git status
+			sleep 5
+			echo ''
+			nomeBranch=$(dialog --stdout --title "Nome Branch" --inputbox 'Digite o nome da branch' 10 50)
+			nomeCommit=$(dialog --stdout --title "Nome Commit" --inputbox 'Digite o nome do seu commit' 10 50)
+			while [ -z $nomeBranch -a -z $nomeCommit ]; do
+				dialog --title "Preencha os campos corretamente" --msgbox "Preencha os campos corretamente" 10 100
+				nomeBranch=$(dialog --stdout --title "Nome Branch" --inputbox 'Digite o nome da branch' 10 50)
+                        	nomeCommit=$(dialog --stdout --title "Nome Commit" --inputbox 'Digite o nome do seu commit' 10 50)
+			done
+			email=$(dialog --stdout --title "Email User" --inputbox 'Digite o seu email:' 10 50)
+			while [ -z $email ]; do
+				email=$(dialog --stdout --title "Email User" --inputbox 'Digite o seu email:' 10 50)
+			done
+			git --config user.email $email
+			git add *
+			git checkout -b $nomeBranch
+			git commit -m $nomeCommit
+			sleep 2
+			clear
+			git push --set-upstream origin $nomeBranch
+			sleep 1
+			exit 0
+		else
+			novoDiretorio=$(dialog --stdout --title "Entra no Diretorio" --inputbox 'Digite o caminho do diretorio' 10 50)
+			while [ -z $novoDiretorio ]; do
+				novoDiretorio=$(dialog --stdout --title "Entra no Diretorio GITHUB" --inputbox 'Digite o caminho do diretorio GITHUB' 10 50)
+			done
+			cd $novoDiretorio
+			echo 'Status Atual do seu REPOSITORIO'
+			echo '----------------------------------------------------------------------'
+			echo 
+			echo
+			git status
+			sleep 5
+			echo ''
+			nomeBranch=$(dialog --stdout --title "Nome Branch" --inputbox 'Digite o nome da branch' 10 50)
+			nomeCommit=$(dialog --stdout --title "Nome Commit" --inputbox 'Digite o nome do seu commit' 10 50)
+			while [ -z $nomeBranch -a -z $nomeCommit ]; do
+				dialog --title "Preencha os campos corretamente" --msgbox "Preencha os campos corretamente" 10 100
+				nomeBranch=$(dialog --stdout --title "Nome Branch" --inputbox 'Digite o nome da branch' 10 50)
+                        	nomeCommit=$(dialog --stdout --title "Nome Commit" --inputbox 'Digite o nome do seu commit' 10 50)
+			done
+			email=$(dialog --stdout --title "Email User" --inputbox 'Digite o seu email:' 10 50)
+			while [ -z $email ]; do
+				email=$(dialog --stdout --title "Email User" --inputbox 'Digite o seu email:' 10 50)
+			done
+			git --config user.email $email
+			git add *
+			git checkout -b $nomeBranch
+			git commit -m $nomeCommit
+			sleep 2
+			clear
+			git push --set-upstream origin $nomeBranch
+			sleep 1
+			exit 0	
+		fi
+
+	fi
+
 }
 function clone(){
  	cloneRep="cloneRepo"
@@ -103,3 +179,4 @@ verifica=$(exeDependences)
 chose=$(user_ch)
 echo $chose
 clone
+commitB
