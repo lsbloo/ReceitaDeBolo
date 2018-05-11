@@ -25,9 +25,9 @@ function user_ch(){
 	fi
 	return 2;
 }
-function commitB(){
- 	branch="commitBranch"
-	if [ $chose == $branch ]; then
+function clone(){
+ 	cloneRep="cloneRepo"
+	if [ $chose == $cloneRep ]; then
 		diretorio=$(dialog --stdout --title "Escolha o diretorio destino do clone" --inputbox 'Diretorio' 10 50)
 		if [ -z $diretorio ]; then
 			dialog --title "Error" --msgbox 'Preencha o campo corretamente' 10 50
@@ -36,23 +36,49 @@ function commitB(){
 			done
 			if [ -n $diretorio ]; then
 				#link=$(dialog --stdout --title "Link GITHUB" --inputbox 'Link aqui \/' 10 30)
+				clear
+				echo '-----------------------------------------------------------------------'
+				echo 
+				echo 'PREENCHA O LINK DO GITHUB AQUI NO TERMINAL'
+				echo '-----------------------------------------------------------------------'
+				echo
 				echo 'Copie o link aqui embaixo'
 				read link
 			fi
 		else
 			#link=$(dialog --stdout --title "Link GITHUB" --inputbox 'Link aqui \/' 10 30)
-			echo 'Copie o link aqui embaixo'
+			clear
+		       echo '-----------------------------------------------------------------------'
+                       echo 
+                       echo 'PREENCHA O LINK DO GITHUB AQUI NO TERMINAL'
+                       echo '-----------------------------------------------------------------------'
+                       echo
+                       echo 'Copie o link aqui embaixo'
+
+		
 			read link
 			if [ -z $link ]; then
 				dialog --title "Error" --msgbox 'Preencha o campo corretamente' 10 50
 				while [ -z $link ]; do
 					#link=$(dialog --stdout --title "Link GITHUB" --inputbox 'Link aqui \/' 10 30)
-					echo 'Copie o link aqui embaixo'
+					 clear
+        		               echo '-----------------------------------------------------------------------'
+		                       echo 
+                      			 echo 'PREENCHA O LINK DO GITHUB AQUI NO TERMINAL'
+                       			echo '-----------------------------------------------------------------------'
+                       			echo
+
 					read link
 				done
 				if [ -n $link ]; then
 					#link=$(dialog --stdout --title "Link GITHUB" --inputbox 'Link aqui \/' 10 30)
-					echo 'Copie o link aqui embaixo'
+					 clear
+		                         echo '-----------------------------------------------------------------------'
+                		         echo 
+                       			 echo 'PREENCHA O LINK DO GITHUB AQUI NO TERMINAL'
+                       			 echo '-----------------------------------------------------------------------'
+                      			 echo
+
 					read link
 				fi
 			else
@@ -63,6 +89,7 @@ function commitB(){
 				git clone $link
 				#sleep 2
 				dialog --title 'Clonado' --msgbox 'Operação finalizada' 10 50
+				exit 0
 			fi
 
 		fi
@@ -75,4 +102,4 @@ verifica=$(exeDependences)
 #echo 'valor' $verifica
 chose=$(user_ch)
 echo $chose
-commitB
+clone
