@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script que fornece uma interface grafica para commit's no github
+#Automatizando seus commit's no github sem a necessidade de utilizar comandos GIT
+
+
+function usuario_opcao(){
+	#Uso de checkl	ist para entrada do usuario!
+	
+}

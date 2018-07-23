@@ -1,0 +1,25 @@
+enp3s0f2  Link encap:Ethernet  Endereço de HW 70:8b:cd:c1:7a:53  
+          UP BROADCAST MULTICAST  MTU:1500  Métrica:1
+          pacotes RX:0 erros:0 descartados:0 excesso:0 quadro:0
+          Pacotes TX:0 erros:0 descartados:0 excesso:0 portadora:0
+          colisões:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B) TX bytes:0 (0.0 B)
+
+lo        Link encap:Loopback Local  
+          inet end.: 127.0.0.1  Masc:255.0.0.0
+          endereço inet6: ::1/128 Escopo:Máquina
+          UP LOOPBACK RUNNING  MTU:65536  Métrica:1
+          pacotes RX:17066 erros:0 descartados:0 excesso:0 quadro:0
+          Pacotes TX:17066 erros:0 descartados:0 excesso:0 portadora:0
+          colisões:0 txqueuelen:1000 
+          RX bytes:2855416 (2.8 MB) TX bytes:2855416 (2.8 MB)
+
+wlp2s0    Link encap:Ethernet  Endereço de HW 70:8b:cd:c1:b7:1a  
+          inet end.: 192.168.0.104  Bcast:192.168.0.255  Masc:255.255.255.0
+          endereço inet6: fe80::9468:9011:939:e5a2/64 Escopo:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Métrica:1
+          pacotes RX:310178 erros:0 descartados:0 excesso:0 quadro:0
+          Pacotes TX:186557 erros:0 descartados:0 excesso:0 portadora:0
+          colisões:0 txqueuelen:1000 
+          RX bytes:388963329 (388.9 MB) TX bytes:22584777 (22.5 MB)
+
