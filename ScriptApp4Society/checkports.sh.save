@@ -1,0 +1,19 @@
+#!/bin/bash
+#Objetivo? - verificar portas do meu aplicativo APP4SOCIETY que estão sendo utilizadas;
+
+portweb=":8080 "
+portpostgrel=":5432"
+portpostgreaux=":5444"
+namesql="postegresql"
+
+function verificWEB(){
+	# estado de Escuta - ONLINE
+	echo 'Porta da aplicacao Spring BOT '
+	#echo $portweb
+	slsof -i $portweb | grep LISTEN)
+	echo $saida
+}
+
+
+
+verificWEB
